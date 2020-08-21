@@ -1,0 +1,5 @@
+runtime: python37
+service:
+env_variables:
+  CLOUD_STORAGE_BUCKET:
+  CLOUD_STORAGE_PREFIX:
